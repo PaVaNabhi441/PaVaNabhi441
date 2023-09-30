@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaVaNabhi441
 - 👀 I’m interested in Coding and Electronics
-- 🌱 I’m currently learning HTML and DS
+- 🌱 I’m currently learning Web Development and DS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
